@@ -11,5 +11,6 @@ I developed a modular PowerShell suite that moves from **Measurement** to **Reme
 
 ### 📈 Evolution & Debugging
 * **v1.0:** Identified a 'Divide by Zero' runtime error when executed on Desktop PCs (which lack battery hardware).
+* ![Desktop Error Screenshot](media/error_screenshot.png)
 * **v2.0:** Implemented environment-aware logic to skip hardware checks on desktops while still allowing software optimizations.
 * **Result:** Reduced manual triage time and provided data-driven insights for hardware replacement cycles.
